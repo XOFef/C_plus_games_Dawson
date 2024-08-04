@@ -1,8 +1,2 @@
 ﻿  Games.cpp
-F:\Projects\Games\Games\Games.cpp(11,23): warning C4101: score: неиспользованная локальная переменная
-F:\Projects\Games\Games\Games.cpp(11,6): warning C4101: survivos: неиспользованная локальная переменная
-F:\Projects\Games\Games\Games.cpp(12,9): warning C4101: b: неиспользованная локальная переменная
-F:\Projects\Games\Games\Games.cpp(11,16): warning C4101: lives: неиспользованная локальная переменная
-F:\Projects\Games\Games\Games.cpp(12,12): warning C4101: x: неиспользованная локальная переменная
-F:\Projects\Games\Games\Games.cpp(12,6): warning C4101: i: неиспользованная локальная переменная
   Games.vcxproj -> F:\Projects\Games\x64\Debug\Games.exe
